@@ -1,4 +1,7 @@
 ### BIO-CLI
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamuchejude/bio-cli.svg)](https://greenkeeper.io/)
+
 > Simple CLI app
 
 ### Technologies
